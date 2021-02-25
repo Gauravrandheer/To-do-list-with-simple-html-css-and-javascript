@@ -1,0 +1,48 @@
+html, body{
+  width:50%;
+  margin:0 auto;
+  font-family: Robot;
+  background-color: orange;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+
+h2{
+  font-size: 30px;
+  text-align: center;
+}
+#container{
+width: 400px;
+
+}
+
+#inputfield{
+width:300px;
+height:46px;
+border:1px solid black;
+outline:none;
+font-size:25px;
+vertical-align: middle;
+}
+
+#addtodo{
+  width:50px;
+  height:50px;
+  border:1px solid black;
+  font-size:30px;
+  vertical-align:middle;
+}
+
+#todocontainer{
+margin-top: 25px;
+}
+
+.paragrph-styling{
+  margin: 0px;
+  cursor: pointer;
+  font-size: 30px;
+}
